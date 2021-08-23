@@ -4,6 +4,8 @@
 
 Use Tableau to create a story for investors in our biking company in portland. Showing the data of usage, as well as some metrics showing upkeep around town.
 
+[Link to dashboard](https://public.tableau.com/views/CitiBike_Challenge_16297604183330/BikeReport?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Results
 
 ![Gender](https://github.com/CaptCarmine/Bike_Sharing/blob/main/Images/Checkout_By_Gender.png?raw=true)
